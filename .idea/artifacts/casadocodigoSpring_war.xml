@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="casadocodigoSpring:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="casadocodigoSpring.war">
+      <element id="artifact" artifact-name="casadocodigoSpring:war exploded" />
+    </root>
+  </artifact>
+</component>
